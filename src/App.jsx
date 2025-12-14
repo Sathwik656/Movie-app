@@ -115,7 +115,6 @@ const App = () => {
             </ul>
           )}
         </section>
-        <h2>Hello</p>
       </div>
     </main>
   );
